@@ -1,9 +1,9 @@
-### Ola! meu nome é Felipe Martins 👋
+### Ola! meu nome é Thiago Sidrim 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-sidrim-63b178216/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/starhyxx/)
 
-![FelipeMrtnsDev GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMrtnsDev&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![SidrimThiago GitHub stats](https://github-readme-stats.vercel.app/api?username=SidrimThiago&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
