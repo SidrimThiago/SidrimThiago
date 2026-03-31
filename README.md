@@ -42,8 +42,7 @@ Atualmente, lidero o desenvolvimento de soluções **Enterprise (SaaS e BaaS)**,
 ### 📊 GitHub Stats
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidrimthiago)](https://github.com/SidrimThiago/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidrimThiago&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+!(https://github-readme-stats.vercel.app/api?username=SidrimThiago&show_icons=true&theme=radical)
 </p>
 
 ---
