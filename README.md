@@ -1,4 +1,4 @@
-# 🚀 Olá! Eu sou Thiago Sidrim 👋
+#  Olá! Eu sou Thiago Sidrim 
 
 ### CTO & Co-Founder @ NXS Hub | Arquiteto de Software
 
@@ -8,16 +8,16 @@ Atualmente, lidero o desenvolvimento de soluções **Enterprise (SaaS e BaaS)**,
 
 ---
 
-### 💡 O que eu faço:
-- 🏗️ **Arquitetura & Backend:** Construção de APIs robustas e microsserviços (Node.js, NestJS, TypeScript).
-- 🔐 **CyberSec & Fintech:** Foco pesado em segurança, Row-Level Security (RLS), JWT, proteção contra IDOR e transações idempotentes.
-- ☁️ **Cloud & Infra:** Orquestração de bancos de dados relacionais e infraestrutura otimizada (PostgreSQL, Supabase, Cloudflare R2, VPS, Docker).
-- 🤖 **IA & Automação:** Entusiasta e pesquisador de modelos de Inteligência Artificial rodando localmente (Ollama, llama.cpp, Hugging Face).
-- 📱 **Frontend & Mobile:** Desenvolvimento de interfaces modernas e aplicativos nativos com React, Next.js e Expo.
+###  O que eu faço:
+-  **Arquitetura & Backend:** Construção de APIs robustas e microsserviços (Node.js, NestJS, TypeScript).
+-  **CyberSec & Fintech:** Foco pesado em segurança, Row-Level Security (RLS), JWT, proteção contra IDOR e transações idempotentes.
+-  **Cloud & Infra:** Orquestração de bancos de dados relacionais e infraestrutura otimizada (PostgreSQL, Supabase, Cloudflare R2, VPS, Docker).
+-  **IA & Automação:** Entusiasta e pesquisador de modelos de Inteligência Artificial rodando localmente (Ollama, llama.cpp, Hugging Face).
+-  **Frontend & Mobile:** Desenvolvimento de interfaces modernas e aplicativos nativos com React, Next.js e Expo.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+###  Tech Stack & Ferramentas
 
 **Backend & Infra**
 <p>
@@ -42,7 +42,7 @@ Atualmente, lidero o desenvolvimento de soluções **Enterprise (SaaS e BaaS)**,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidrimThiago&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="SidrimThiago GitHub stats" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidrimthiago)](https://github.com/SidrimThiago/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidrimThiago&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
 
