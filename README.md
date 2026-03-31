@@ -1,28 +1,54 @@
-### Ola! meu nome é Thiago Sidrim 👋
+# 🚀 Olá! Eu sou Thiago Sidrim 👋
+
+### CTO & Co-Founder @ NXS Hub | Arquiteto de Software
+
+Sou estudante de Engenharia da Computação e atuo como CTO e Tech Lead. Minha especialidade é transformar regras de negócios complexas em arquiteturas escaláveis, seguras e de alta performance. 
+
+Atualmente, lidero o desenvolvimento de soluções **Enterprise (SaaS e BaaS)**, focando em sistemas transacionais, integrações financeiras e infraestrutura em nuvem para clientes *high-ticket*.
+
+---
+
+### 💡 O que eu faço:
+- 🏗️ **Arquitetura & Backend:** Construção de APIs robustas e microsserviços (Node.js, NestJS, TypeScript).
+- 🔐 **CyberSec & Fintech:** Foco pesado em segurança, Row-Level Security (RLS), JWT, proteção contra IDOR e transações idempotentes.
+- ☁️ **Cloud & Infra:** Orquestração de bancos de dados relacionais e infraestrutura otimizada (PostgreSQL, Supabase, Cloudflare R2, VPS, Docker).
+- 🤖 **IA & Automação:** Entusiasta e pesquisador de modelos de Inteligência Artificial rodando localmente (Ollama, llama.cpp, Hugging Face).
+- 📱 **Frontend & Mobile:** Desenvolvimento de interfaces modernas e aplicativos nativos com React, Next.js e Expo.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+**Backend & Infra**
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SidrimThiago&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="SidrimThiago GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidrimThiago&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-sidrim-63b178216/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/starhyxx/)
-
-![SidrimThiago GitHub stats](https://github-readme-stats.vercel.app/api?username=SidrimThiago&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-<br>
-
-<div>
-    Portifólio: <a href="https://sidrim-portfoil.vercel.app" target="_blank">sidrim-portfoil.vercel.app<a>
-</div>
